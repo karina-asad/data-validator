@@ -1,0 +1,19 @@
+{
+  "name": "asad-data-validator",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for data validation in Node.js and browser environments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karina-asad/data-validator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karina-asad/data-validator/issues"
+  },
+  "homepage": "https://github.com/karina-asad/data-validator#readme"
+}
